@@ -1,0 +1,1390 @@
+{
+    "name": "Qure Color (1color)",
+    "icons": [
+        {
+            "name": "5iTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/5iTV.png"
+        },
+        {
+            "name": "AGA.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AGA.png"
+        },
+        {
+            "name": "AIA.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AIA.png"
+        },
+        {
+            "name": "AR.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AR.png"
+        },
+        {
+            "name": "AU.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AU.png"
+        },
+        {
+            "name": "AbemaTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AbemaTV.png"
+        },
+        {
+            "name": "AdBlack.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AdBlack.png"
+        },
+        {
+            "name": "AdWhite.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AdWhite.png"
+        },
+        {
+            "name": "Advertising.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Advertising.png"
+        },
+        {
+            "name": "AfreecaTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AfreecaTV.png"
+        },
+        {
+            "name": "Africa_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Africa_Map.png"
+        },
+        {
+            "name": "Airport.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Airport.png"
+        },
+        {
+            "name": "Alibaba.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Alibaba.png"
+        },
+        {
+            "name": "All4.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/All4.png"
+        },
+        {
+            "name": "Amazon.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Amazon.png"
+        },
+        {
+            "name": "Amazon_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Amazon_1.png"
+        },
+        {
+            "name": "America_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/America_Map.png"
+        },
+        {
+            "name": "AmyTelecom.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AmyTelecom.png"
+        },
+        {
+            "name": "AmyTelecom_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/AmyTelecom_1.png"
+        },
+        {
+            "name": "Apeach.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apeach.png"
+        },
+        {
+            "name": "App_Store.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/App_Store.png"
+        },
+        {
+            "name": "Apple.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple.png"
+        },
+        {
+            "name": "Apple_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_1.png"
+        },
+        {
+            "name": "Apple_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_2.png"
+        },
+        {
+            "name": "Apple_Fitness+.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_Fitness+.png"
+        },
+        {
+            "name": "Apple_Fitness+_Letter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_Fitness+_Letter.png"
+        },
+        {
+            "name": "Apple_Fitness.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_Fitness.png"
+        },
+        {
+            "name": "Apple_Music.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_Music.png"
+        },
+        {
+            "name": "Apple_News.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_News.png"
+        },
+        {
+            "name": "Apple_TV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_TV.png"
+        },
+        {
+            "name": "Apple_TV_Plus.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_TV_Plus.png"
+        },
+        {
+            "name": "Apple_Update.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Apple_Update.png"
+        },
+        {
+            "name": "Area.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Area.png"
+        },
+        {
+            "name": "Argentina.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Argentina.png"
+        },
+        {
+            "name": "Asia_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Asia_Map.png"
+        },
+        {
+            "name": "Australia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Australia.png"
+        },
+        {
+            "name": "Auto.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Auto.png"
+        },
+        {
+            "name": "Available.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Available.png"
+        },
+        {
+            "name": "Available_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Available_1.png"
+        },
+        {
+            "name": "Azure.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Azure.png"
+        },
+        {
+            "name": "BBC_iPlayer.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BBC_iPlayer.png"
+        },
+        {
+            "name": "BBC_iPlayer_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BBC_iPlayer_1.png"
+        },
+        {
+            "name": "BBC_iPlayer_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BBC_iPlayer_2.png"
+        },
+        {
+            "name": "BGP.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BGP.png"
+        },
+        {
+            "name": "BR.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BR.png"
+        },
+        {
+            "name": "Back.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Back.png"
+        },
+        {
+            "name": "Bahamut.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Bahamut.png"
+        },
+        {
+            "name": "Bamboo.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Bamboo.png"
+        },
+        {
+            "name": "Blackhole.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Blackhole.png"
+        },
+        {
+            "name": "Blinkload.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Blinkload.png"
+        },
+        {
+            "name": "Blinkload_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Blinkload_1.png"
+        },
+        {
+            "name": "Bookpedia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Bookpedia.png"
+        },
+        {
+            "name": "BosLife.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BosLife.png"
+        },
+        {
+            "name": "BosLife_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/BosLife_1.png"
+        },
+        {
+            "name": "Bot.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Bot.png"
+        },
+        {
+            "name": "Brazil.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Brazil.png"
+        },
+        {
+            "name": "Brown.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Brown.png"
+        },
+        {
+            "name": "Bypass.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Bypass.png"
+        },
+        {
+            "name": "CA.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/CA.png"
+        },
+        {
+            "name": "CC.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/CC.png"
+        },
+        {
+            "name": "CN.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/CN.png"
+        },
+        {
+            "name": "Canada.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Canada.png"
+        },
+        {
+            "name": "Cat.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cat.png"
+        },
+        {
+            "name": "Catnet.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Catnet.png"
+        },
+        {
+            "name": "Cellular.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cellular.png"
+        },
+        {
+            "name": "China.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/China.png"
+        },
+        {
+            "name": "China_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/China_Map.png"
+        },
+        {
+            "name": "Cloudflare.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cloudflare.png"
+        },
+        {
+            "name": "Clubhouse.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Clubhouse.png"
+        },
+        {
+            "name": "Clubhouse_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Clubhouse_1.png"
+        },
+        {
+            "name": "Clubhouse_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Clubhouse_2.png"
+        },
+        {
+            "name": "Copilot.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Copilot.png"
+        },
+        {
+            "name": "Cord.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cord.png"
+        },
+        {
+            "name": "CreamData.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/CreamData.png"
+        },
+        {
+            "name": "Cryptocurrency.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cryptocurrency.png"
+        },
+        {
+            "name": "Cryptocurrency_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cryptocurrency_1.png"
+        },
+        {
+            "name": "Cryptocurrency_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cryptocurrency_2.png"
+        },
+        {
+            "name": "Cryptocurrency_3.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cryptocurrency_3.png"
+        },
+        {
+            "name": "Cydia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Cydia.png"
+        },
+        {
+            "name": "DAZN.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/DAZN.png"
+        },
+        {
+            "name": "DAZN_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/DAZN_1.png"
+        },
+        {
+            "name": "DAZN_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/DAZN_2.png"
+        },
+        {
+            "name": "DE.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/DE.png"
+        },
+        {
+            "name": "Daily.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Daily.png"
+        },
+        {
+            "name": "Dinosaur.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Dinosaur.png"
+        },
+        {
+            "name": "Direct.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Direct.png"
+        },
+        {
+            "name": "Discord.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Discord.png"
+        },
+        {
+            "name": "Disney+.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Disney+.png"
+        },
+        {
+            "name": "Disney+_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Disney+_1.png"
+        },
+        {
+            "name": "Disney+_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Disney+_2.png"
+        },
+        {
+            "name": "Disney.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Disney.png"
+        },
+        {
+            "name": "Dler.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Dler.png"
+        },
+        {
+            "name": "Domestic.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Domestic.png"
+        },
+        {
+            "name": "DomesticMedia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/DomesticMedia.png"
+        },
+        {
+            "name": "Download.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Download.png"
+        },
+        {
+            "name": "Drill.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Drill.png"
+        },
+        {
+            "name": "EG.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/EG.png"
+        },
+        {
+            "name": "ESPN+.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ESPN+.png"
+        },
+        {
+            "name": "ESPN+_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ESPN+_1.png"
+        },
+        {
+            "name": "ESPN+_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ESPN+_2.png"
+        },
+        {
+            "name": "EU.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/EU.png"
+        },
+        {
+            "name": "Egypt.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Egypt.png"
+        },
+        {
+            "name": "Emby.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Emby.png"
+        },
+        {
+            "name": "Epic_Games.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Epic_Games.png"
+        },
+        {
+            "name": "Europe_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Europe_Map.png"
+        },
+        {
+            "name": "European_Union.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/European_Union.png"
+        },
+        {
+            "name": "FI.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/FI.png"
+        },
+        {
+            "name": "FOX.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/FOX.png"
+        },
+        {
+            "name": "FR.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/FR.png"
+        },
+        {
+            "name": "Facebook.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Facebook.png"
+        },
+        {
+            "name": "Filter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Filter.png"
+        },
+        {
+            "name": "Final.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Final.png"
+        },
+        {
+            "name": "Final_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Final_1.png"
+        },
+        {
+            "name": "Find_My.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Find_My.png"
+        },
+        {
+            "name": "Finland.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Finland.png"
+        },
+        {
+            "name": "Flamingo.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Flamingo.png"
+        },
+        {
+            "name": "ForeignMedia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ForeignMedia.png"
+        },
+        {
+            "name": "France.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/France.png"
+        },
+        {
+            "name": "Fries.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Fries.png"
+        },
+        {
+            "name": "Frog.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Frog.png"
+        },
+        {
+            "name": "GIA.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/GIA.png"
+        },
+        {
+            "name": "Game.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Game.png"
+        },
+        {
+            "name": "Germany.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Germany.png"
+        },
+        {
+            "name": "GitHub.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/GitHub.png"
+        },
+        {
+            "name": "GitHub_Letter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/GitHub_Letter.png"
+        },
+        {
+            "name": "Global.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Global.png"
+        },
+        {
+            "name": "Gmail.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Gmail.png"
+        },
+        {
+            "name": "Google.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Google.png"
+        },
+        {
+            "name": "Google_Drive.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Google_Drive.png"
+        },
+        {
+            "name": "Google_Opinion_Rewards.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Google_Opinion_Rewards.png"
+        },
+        {
+            "name": "Google_Search.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Google_Search.png"
+        },
+        {
+            "name": "HBO.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO.png"
+        },
+        {
+            "name": "HBO_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO_1.png"
+        },
+        {
+            "name": "HBO_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO_2.png"
+        },
+        {
+            "name": "HBO_GO.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO_GO.png"
+        },
+        {
+            "name": "HBO_GO_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO_GO_1.png"
+        },
+        {
+            "name": "HBO_GO_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO_GO_2.png"
+        },
+        {
+            "name": "HBO_Max.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HBO_Max.png"
+        },
+        {
+            "name": "HC.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HC.png"
+        },
+        {
+            "name": "HK.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HK.png"
+        },
+        {
+            "name": "HKMTMedia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/HKMTMedia.png"
+        },
+        {
+            "name": "Heart.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Heart.png"
+        },
+        {
+            "name": "Hijacking.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Hijacking.png"
+        },
+        {
+            "name": "Hong_Kong.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Hong_Kong.png"
+        },
+        {
+            "name": "Hulu.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Hulu.png"
+        },
+        {
+            "name": "Hulu_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Hulu_1.png"
+        },
+        {
+            "name": "IEPL.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/IEPL.png"
+        },
+        {
+            "name": "IN.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/IN.png"
+        },
+        {
+            "name": "IPLC.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/IPLC.png"
+        },
+        {
+            "name": "ITV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ITV.png"
+        },
+        {
+            "name": "ITV_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ITV_1.png"
+        },
+        {
+            "name": "ITV_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ITV_2.png"
+        },
+        {
+            "name": "Imm.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Imm.png"
+        },
+        {
+            "name": "India.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/India.png"
+        },
+        {
+            "name": "Infuse.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Infuse.png"
+        },
+        {
+            "name": "Infuse_7.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Infuse_7.png"
+        },
+        {
+            "name": "Ingress.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Ingress.png"
+        },
+        {
+            "name": "Instagram.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Instagram.png"
+        },
+        {
+            "name": "JOOX.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/JOOX.png"
+        },
+        {
+            "name": "JP.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/JP.png"
+        },
+        {
+            "name": "Japan.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Japan.png"
+        },
+        {
+            "name": "KKBOX.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/KKBOX.png"
+        },
+        {
+            "name": "KKTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/KKTV.png"
+        },
+        {
+            "name": "KR.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/KR.png"
+        },
+        {
+            "name": "Kakao.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Kakao.png"
+        },
+        {
+            "name": "Korea.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Korea.png"
+        },
+        {
+            "name": "LA.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/LA.png"
+        },
+        {
+            "name": "LA_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/LA_Map.png"
+        },
+        {
+            "name": "LOL.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/LOL.png"
+        },
+        {
+            "name": "Lab.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Lab.png"
+        },
+        {
+            "name": "Lambda.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Lambda.png"
+        },
+        {
+            "name": "League_of_Legends.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/League_of_Legends.png"
+        },
+        {
+            "name": "LiTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/LiTV.png"
+        },
+        {
+            "name": "Line.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Line.png"
+        },
+        {
+            "name": "LineTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/LineTV.png"
+        },
+        {
+            "name": "LinkCube.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/LinkCube.png"
+        },
+        {
+            "name": "Linkedin.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Linkedin.png"
+        },
+        {
+            "name": "Lock.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Lock.png"
+        },
+        {
+            "name": "Loop.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Loop.png"
+        },
+        {
+            "name": "Luffy.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Luffy.png"
+        },
+        {
+            "name": "MO.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/MO.png"
+        },
+        {
+            "name": "MY.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/MY.png"
+        },
+        {
+            "name": "Macao.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Macao.png"
+        },
+        {
+            "name": "Magic.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Magic.png"
+        },
+        {
+            "name": "Mail.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Mail.png"
+        },
+        {
+            "name": "Malaysia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Malaysia.png"
+        },
+        {
+            "name": "Media.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Media.png"
+        },
+        {
+            "name": "Mickey.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Mickey.png"
+        },
+        {
+            "name": "Microsoft.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Microsoft.png"
+        },
+        {
+            "name": "Mouse.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Mouse.png"
+        },
+        {
+            "name": "Music_Enhance.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Music_Enhance.png"
+        },
+        {
+            "name": "My5.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/My5.png"
+        },
+        {
+            "name": "NBA.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/NBA.png"
+        },
+        {
+            "name": "NBC.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/NBC.png"
+        },
+        {
+            "name": "Naiko.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Naiko.png"
+        },
+        {
+            "name": "Netease_Music.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Netease_Music.png"
+        },
+        {
+            "name": "Netease_Music_Unlock.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Netease_Music_Unlock.png"
+        },
+        {
+            "name": "Netflix.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Netflix.png"
+        },
+        {
+            "name": "Netflix_Letter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Netflix_Letter.png"
+        },
+        {
+            "name": "Nfcloud.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Nfcloud.png"
+        },
+        {
+            "name": "Ninja.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Ninja.png"
+        },
+        {
+            "name": "Nintendo.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Nintendo.png"
+        },
+        {
+            "name": "Notion.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Notion.png"
+        },
+        {
+            "name": "Null_Nation.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Null_Nation.png"
+        },
+        {
+            "name": "Oceania_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Oceania_Map.png"
+        },
+        {
+            "name": "OneDrive.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/OneDrive.png"
+        },
+        {
+            "name": "Ox.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Ox.png"
+        },
+        {
+            "name": "PBS.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PBS.png"
+        },
+        {
+            "name": "PH.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PH.png"
+        },
+        {
+            "name": "Panda.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Panda.png"
+        },
+        {
+            "name": "Pandora.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Pandora.png"
+        },
+        {
+            "name": "Paramount.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Paramount.png"
+        },
+        {
+            "name": "PayPal.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PayPal.png"
+        },
+        {
+            "name": "Peacock.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Peacock.png"
+        },
+        {
+            "name": "Peacock_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Peacock_1.png"
+        },
+        {
+            "name": "Peacock_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Peacock_2.png"
+        },
+        {
+            "name": "Philippines.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Philippines.png"
+        },
+        {
+            "name": "Pig.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Pig.png"
+        },
+        {
+            "name": "Pirate_Nation.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Pirate_Nation.png"
+        },
+        {
+            "name": "PlayStation.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PlayStation.png"
+        },
+        {
+            "name": "PlayStation_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PlayStation_1.png"
+        },
+        {
+            "name": "Pornhub.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Pornhub.png"
+        },
+        {
+            "name": "Pornhub_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Pornhub_1.png"
+        },
+        {
+            "name": "Pornhub_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Pornhub_2.png"
+        },
+        {
+            "name": "PostBox.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PostBox.png"
+        },
+        {
+            "name": "PostBox_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/PostBox_1.png"
+        },
+        {
+            "name": "Prime_Video.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Prime_Video.png"
+        },
+        {
+            "name": "Prime_Video_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Prime_Video_1.png"
+        },
+        {
+            "name": "Prime_Video_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Prime_Video_2.png"
+        },
+        {
+            "name": "Proxy.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Proxy.png"
+        },
+        {
+            "name": "Prpr.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Prpr.png"
+        },
+        {
+            "name": "Puzzle.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Puzzle.png"
+        },
+        {
+            "name": "QQ.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/QQ.png"
+        },
+        {
+            "name": "Quantumult_X.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Quantumult_X.png"
+        },
+        {
+            "name": "Qure.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Qure.png"
+        },
+        {
+            "name": "RU.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/RU.png"
+        },
+        {
+            "name": "Rainbow.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Rainbow.png"
+        },
+        {
+            "name": "Rainbow_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Rainbow_1.png"
+        },
+        {
+            "name": "Reject.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Reject.png"
+        },
+        {
+            "name": "Renzhe.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Renzhe.png"
+        },
+        {
+            "name": "Ring.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Ring.png"
+        },
+        {
+            "name": "Rocket.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Rocket.png"
+        },
+        {
+            "name": "Round_Robin.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Round_Robin.png"
+        },
+        {
+            "name": "Round_Robin_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Round_Robin_1.png"
+        },
+        {
+            "name": "Russia.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Russia.png"
+        },
+        {
+            "name": "Ryan.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Ryan.png"
+        },
+        {
+            "name": "SG.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/SG.png"
+        },
+        {
+            "name": "SSID.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/SSID.png"
+        },
+        {
+            "name": "SSID_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/SSID_1.png"
+        },
+        {
+            "name": "SSL.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/SSL.png"
+        },
+        {
+            "name": "SSlinks.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/SSlinks.png"
+        },
+        {
+            "name": "STARZ.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/STARZ.png"
+        },
+        {
+            "name": "Scholar.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Scholar.png"
+        },
+        {
+            "name": "Server.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Server.png"
+        },
+        {
+            "name": "Singapore.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Singapore.png"
+        },
+        {
+            "name": "Siri.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Siri.png"
+        },
+        {
+            "name": "Sling_TV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Sling_TV.png"
+        },
+        {
+            "name": "Spark.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Spark.png"
+        },
+        {
+            "name": "Speedtest.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Speedtest.png"
+        },
+        {
+            "name": "Spotify.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Spotify.png"
+        },
+        {
+            "name": "Stack.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Stack.png"
+        },
+        {
+            "name": "Star+.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Star+.png"
+        },
+        {
+            "name": "Star.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Star.png"
+        },
+        {
+            "name": "Star_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Star_1.png"
+        },
+        {
+            "name": "Star_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Star_2.png"
+        },
+        {
+            "name": "Static.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Static.png"
+        },
+        {
+            "name": "Static_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Static_1.png"
+        },
+        {
+            "name": "Steam.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Steam.png"
+        },
+        {
+            "name": "Streaming.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Streaming.png"
+        },
+        {
+            "name": "StreamingCN.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/StreamingCN.png"
+        },
+        {
+            "name": "StreamingSE.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/StreamingSE.png"
+        },
+        {
+            "name": "TAG.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TAG.png"
+        },
+        {
+            "name": "TH.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TH.png"
+        },
+        {
+            "name": "TIDAL.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TIDAL.png"
+        },
+        {
+            "name": "TIDAL_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TIDAL_1.png"
+        },
+        {
+            "name": "TIDAL_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TIDAL_2.png"
+        },
+        {
+            "name": "TR.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TR.png"
+        },
+        {
+            "name": "TVB.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TVB.png"
+        },
+        {
+            "name": "TW.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TW.png"
+        },
+        {
+            "name": "Taiwan.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Taiwan.png"
+        },
+        {
+            "name": "Taobao.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Taobao.png"
+        },
+        {
+            "name": "Telegram.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Telegram.png"
+        },
+        {
+            "name": "Telegram_X.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Telegram_X.png"
+        },
+        {
+            "name": "TestFlight.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TestFlight.png"
+        },
+        {
+            "name": "TestFlight_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TestFlight_1.png"
+        },
+        {
+            "name": "TestFlight_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TestFlight_2.png"
+        },
+        {
+            "name": "Thailand.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Thailand.png"
+        },
+        {
+            "name": "TikTok.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TikTok.png"
+        },
+        {
+            "name": "TikTok_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TikTok_1.png"
+        },
+        {
+            "name": "TikTok_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/TikTok_2.png"
+        },
+        {
+            "name": "Tubi.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Tubi.png"
+        },
+        {
+            "name": "Turkey.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Turkey.png"
+        },
+        {
+            "name": "Twitch.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Twitch.png"
+        },
+        {
+            "name": "Twitter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Twitter.png"
+        },
+        {
+            "name": "UK.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/UK.png"
+        },
+        {
+            "name": "ULB.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ULB.png"
+        },
+        {
+            "name": "ULB_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ULB_1.png"
+        },
+        {
+            "name": "UN.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/UN.png"
+        },
+        {
+            "name": "US.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/US.png"
+        },
+        {
+            "name": "United_Kingdom.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/United_Kingdom.png"
+        },
+        {
+            "name": "United_Nations.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/United_Nations.png"
+        },
+        {
+            "name": "United_States.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/United_States.png"
+        },
+        {
+            "name": "United_States_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/United_States_Map.png"
+        },
+        {
+            "name": "Unlock.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Unlock.png"
+        },
+        {
+            "name": "VIP.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/VIP.png"
+        },
+        {
+            "name": "Vimeo.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Vimeo.png"
+        },
+        {
+            "name": "Viu.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Viu.png"
+        },
+        {
+            "name": "ViuTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/ViuTV.png"
+        },
+        {
+            "name": "Want_Want.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Want_Want.png"
+        },
+        {
+            "name": "Want_Want_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Want_Want_1.png"
+        },
+        {
+            "name": "WeChat.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/WeChat.png"
+        },
+        {
+            "name": "WeTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/WeTV.png"
+        },
+        {
+            "name": "WeTV_Letter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/WeTV_Letter.png"
+        },
+        {
+            "name": "Weibo.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Weibo.png"
+        },
+        {
+            "name": "WiFi.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/WiFi.png"
+        },
+        {
+            "name": "Windows.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Windows.png"
+        },
+        {
+            "name": "Windows_11.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Windows_11.png"
+        },
+        {
+            "name": "World_Map.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/World_Map.png"
+        },
+        {
+            "name": "Xair.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Xair.png"
+        },
+        {
+            "name": "Xbox.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Xbox.png"
+        },
+        {
+            "name": "Yahoo.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Yahoo.png"
+        },
+        {
+            "name": "Yahoo_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/Yahoo_1.png"
+        },
+        {
+            "name": "YouTube.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/YouTube.png"
+        },
+        {
+            "name": "YouTube_Letter.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/YouTube_Letter.png"
+        },
+        {
+            "name": "YouTube_Music.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/YouTube_Music.png"
+        },
+        {
+            "name": "bilibili.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/bilibili.png"
+        },
+        {
+            "name": "bilibili_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/bilibili_1.png"
+        },
+        {
+            "name": "bilibili_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/bilibili_2.png"
+        },
+        {
+            "name": "bilibili_3.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/bilibili_3.png"
+        },
+        {
+            "name": "bilibili_4.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/bilibili_4.png"
+        },
+        {
+            "name": "deezer.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/deezer.png"
+        },
+        {
+            "name": "deezer_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/deezer_1.png"
+        },
+        {
+            "name": "deezer_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/deezer_2.png"
+        },
+        {
+            "name": "discovery+.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/discovery+.png"
+        },
+        {
+            "name": "encoreTVB.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/encoreTVB.png"
+        },
+        {
+            "name": "friDay.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/friDay.png"
+        },
+        {
+            "name": "fuboTV.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/fuboTV.png"
+        },
+        {
+            "name": "iCloud.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/iCloud.png"
+        },
+        {
+            "name": "iQIYI&bilibili.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/iQIYI&bilibili.png"
+        },
+        {
+            "name": "iQIYI.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/iQIYI.png"
+        },
+        {
+            "name": "iQIYI_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/iQIYI_1.png"
+        },
+        {
+            "name": "myTV_SUPER.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/myTV_SUPER.png"
+        },
+        {
+            "name": "niconico.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/niconico.png"
+        },
+        {
+            "name": "niconico_1.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/niconico_1.png"
+        },
+        {
+            "name": "niconico_2.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/niconico_2.png"
+        },
+        {
+            "name": "nowe.png",
+            "url": "https://ok2.1357810.xyz/loganoxo/loganiconset/master/iconset/1color/nowe.png"
+        }
+    ],
+    "description": "Qure Color (1color) 是 Qure 项目下的彩色主题的「1color」图标集 @loganoxo"
+}
